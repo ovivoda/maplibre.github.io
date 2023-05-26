@@ -14,14 +14,11 @@ weight: 10
     <p><a href="https://www.linkedin.com/in/birkskyum/">LinkedIn</a> · <a href="https://github.com/birkskyum">GitHub</a> · <a href="https://osmus.slack.com/team/U02GUMY099R">Slack</a>
 </div>
 
-MapLibre with its open nature is uniquely positioned to support high-quality
-geospatial visualizations in science, politics, tech, and arts. Because the
-world is changing so fast, it's never been more important than right now to
-invest in this effort.
+Hi, I'm Birk. I'm a board member and a frequent contributor in MapLibre. I focus on getting
+the long-term decisions right, and on areas that are always of interest to us, such as higher
+performance, modernizing our stack, making workflows more intuitive and fostering collaboration
+amongst people and teams in the open ecosystem.
 
-As a Board member of MapLibre, I'm focusing on getting the long-term
-strategic decisions right, so the user story will be as simple and intuitive
-as possible. That means making sure that it's trivial to use MapLibre across
-web frameworks, game engines, native cross-platform compilers, etc. We will
-achieve that by supporting modern graphics APIs and embracing partnerships
-amongst projects in the open ecosystem.
+The world is changing so fast, and I believe MapLibre has this unique position as an open
+ecosystem to support high-quality geospatial visualizations across sciences, politics, tech and arts.
+I think it's more important that ever to support this effort.
